@@ -1,1 +1,1 @@
-# puc_cg
+# Trabalho de Computação Gráfica
